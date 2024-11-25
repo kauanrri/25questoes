@@ -1,0 +1,1 @@
+console.log((12 % 5) + 3); // Resultado: 5
